@@ -131,3 +131,4 @@ dmypy.json
 
 # custom
 /report/allure_results
+/report/
